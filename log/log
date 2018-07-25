@@ -1,0 +1,167 @@
+[21/Jul/2018:17:23:23] boa: starting server
+192.168.1.17 - - [21/Jul/2018:17:23:28] "GET / HTTP/1.1" 200 243
+192.168.1.17 - - [21/Jul/2018:17:23:36] "GET /html/ HTTP/1.1" 200 214
+192.168.1.17 - - [21/Jul/2018:17:23:37] "GET /html/login.html HTTP/1.1" 200 413
+192.168.1.17 - - [21/Jul/2018:17:23:41] "GET /log/ HTTP/1.1" 200 237
+192.168.1.17 - - [21/Jul/2018:17:23:50] "GET / HTTP/1.1" 304 0
+[21/Jul/2018:17:24:47] caught SIGINT, shutting down
+[21/Jul/2018:17:24:48] boa: starting server
+192.168.1.17 - - [21/Jul/2018:17:24:50] "GET / HTTP/1.1" 200 295
+[21/Jul/2018:17:25:09] caught SIGINT, shutting down
+[21/Jul/2018:17:25:19] boa: starting server
+192.168.1.17 - - [21/Jul/2018:17:25:24] "GET / HTTP/1.1" 304 0
+192.168.1.17 - - [21/Jul/2018:17:25:31] "GET /conf/ HTTP/1.1" 200 267
+192.168.1.17 - - [21/Jul/2018:17:25:36] "GET /log/ HTTP/1.1" 304 0
+192.168.1.17 - - [21/Jul/2018:17:26:01] "GET / HTTP/1.1" 304 0
+[21/Jul/2018:17:26:46] caught SIGINT, shutting down
+[21/Jul/2018:17:26:57] boa: starting server
+192.168.1.17 - - [21/Jul/2018:17:27:05] "GET / HTTP/1.1" 200 243
+192.168.1.17 - - [21/Jul/2018:17:27:06] "GET / HTTP/1.1" 304 0
+192.168.1.17 - - [21/Jul/2018:17:27:08] "GET /log/ HTTP/1.1" 304 0
+192.168.1.17 - - [21/Jul/2018:17:27:11] "GET /html/ HTTP/1.1" 304 0
+192.168.1.17 - - [21/Jul/2018:17:27:15] "GET /html/login.html HTTP/1.1" 304 0
+[21/Jul/2018:17:29:23] caught SIGINT, shutting down
+[21/Jul/2018:17:29:26] boa: starting server
+[21/Jul/2018:17:29:56] caught SIGINT, shutting down
+[21/Jul/2018:17:29:59] boa: starting server
+192.168.1.17 - - [21/Jul/2018:17:30:14] "GET / HTTP/1.1" 200 243
+192.168.1.17 - - [21/Jul/2018:17:30:17] "GET /html/ HTTP/1.1" 200 214
+192.168.1.17 - - [21/Jul/2018:17:30:18] "GET /html/login.html HTTP/1.1" 200 413
+192.168.1.17 - - [21/Jul/2018:17:32:13] "GET / HTTP/1.1" 200 243
+192.168.1.17 - - [21/Jul/2018:17:32:14] "GET /html/ HTTP/1.1" 200 268
+192.168.1.17 - - [21/Jul/2018:17:32:16] "GET /html/login.html HTTP/1.1" 200 163
+192.168.1.17 - - [21/Jul/2018:17:32:16] "GET /html/lina.JPEG HTTP/1.1" 404 0
+192.168.1.17 - - [21/Jul/2018:17:32:21] "GET /html/lina.jpg HTTP/1.1" 200 130179
+192.168.1.17 - - [21/Jul/2018:17:32:50] "GET /html/ HTTP/1.1" 304 0
+192.168.1.17 - - [21/Jul/2018:17:32:53] "GET /html/login.html HTTP/1.1" 200 162
+192.168.1.17 - - [21/Jul/2018:17:32:53] "GET /html/lina.jpg HTTP/1.1" 304 0
+192.168.1.17 - - [21/Jul/2018:17:33:37] "GET /html/login.html HTTP/1.1" 200 163
+192.168.1.17 - - [21/Jul/2018:17:33:37] "GET /html/lina.jpg HTTP/1.1" 304 0
+192.168.1.17 - - [21/Jul/2018:17:34:29] "GET / HTTP/1.1" 304 0
+192.168.1.17 - - [21/Jul/2018:17:34:35] "GET /html/ HTTP/1.1" 304 0
+192.168.1.17 - - [21/Jul/2018:17:34:39] "GET /conf/ HTTP/1.1" 304 0
+192.168.1.17 - - [21/Jul/2018:17:34:48] "GET /log/ HTTP/1.1" 304 0
+[21/Jul/2018:17:38:17] caught SIGINT, shutting down
+[21/Jul/2018:17:38:21] boa: starting server
+192.168.1.17 - - [21/Jul/2018:18:18:38] "GET / HTTP/1.1" 200 243
+192.168.1.17 - - [21/Jul/2018:18:18:41] "GET /html/ HTTP/1.1" 200 322
+192.168.1.17 - - [21/Jul/2018:18:18:42] "GET /html/women.txt HTTP/1.1" 200 3279
+192.168.1.17 - - [22/Jul/2018:02:16:50] "GET / HTTP/1.1" 200 243
+192.168.1.17 - - [22/Jul/2018:02:16:52] "GET /favicon.ico HTTP/1.1" 404 0
+192.168.1.17 - - [22/Jul/2018:02:16:59] "GET /html/ HTTP/1.1" 200 322
+192.168.1.17 - - [22/Jul/2018:02:17:01] "GET /html/women.txt HTTP/1.1" 200 3279
+192.168.1.17 - - [22/Jul/2018:02:17:09] "GET /html/login.html HTTP/1.1" 200 160
+192.168.1.17 - - [22/Jul/2018:02:17:09] "GET /html/lina.jpg HTTP/1.1" 200 130179
+192.168.1.17 - - [22/Jul/2018:02:18:28] "GET /html/ HTTP/1.1" 200 73
+192.168.1.17 - - [22/Jul/2018:03:08:01] "GET / HTTP/1.1" 304 0
+192.168.1.17 - - [22/Jul/2018:03:08:01] "GET /favicon.ico HTTP/1.1" 404 0
+192.168.1.17 - - [22/Jul/2018:03:08:04] "GET /html/ HTTP/1.1" 200 73
+[22/Jul/2018:03:12:14] boa: starting server
+192.168.1.17 - - [22/Jul/2018:03:12:38] "GET / HTTP/1.1" 200 243
+192.168.1.17 - - [22/Jul/2018:03:12:40] "GET /html/ HTTP/1.1" 200 17519
+192.168.1.17 - - [22/Jul/2018:03:12:40] "GET /html/layout/styles/layout.css HTTP/1.1" 200 17630
+192.168.1.17 - - [22/Jul/2018:03:12:40] "GET /html/layout/scripts/jquery.backtotop.js HTTP/1.1" 200 609
+192.168.1.17 - - [22/Jul/2018:03:12:40] "GET /html/layout/scripts/jquery.mobilemenu.js HTTP/1.1" 200 1291
+192.168.1.17 - - [22/Jul/2018:03:12:40] "GET /html/images/demo/320x240.png HTTP/1.1" 200 2644
+192.168.1.17 - - [22/Jul/2018:03:12:40] "GET /html/images/demo/480x360.png HTTP/1.1" 200 9613
+192.168.1.17 - - [22/Jul/2018:03:12:40] "GET /html/layout/scripts/jquery.flexslider-min.js HTTP/1.1" 200 23058
+192.168.1.17 - - [22/Jul/2018:03:12:40] "GET /html/images/demo/backgrounds/02.png HTTP/1.1" 200 16314
+192.168.1.17 - - [22/Jul/2018:03:12:40] "GET /html/images/demo/backgrounds/01.png HTTP/1.1" 200 25072
+192.168.1.17 - - [22/Jul/2018:03:12:40] "GET /html/images/demo/backgrounds/03.png HTTP/1.1" 200 15433
+192.168.1.17 - - [22/Jul/2018:03:12:40] "GET /html/layout/scripts/jquery.min.js HTTP/1.1" 200 86353
+192.168.1.17 - - [22/Jul/2018:03:12:55] "GET /html/pages/full-width.html HTTP/1.1" 200 15345
+192.168.1.17 - - [22/Jul/2018:03:12:55] "GET /html/images/demo/imgr.gif HTTP/1.1" 200 1178
+192.168.1.17 - - [22/Jul/2018:03:12:55] "GET /html/images/demo/imgl.gif HTTP/1.1" 200 998
+192.168.1.17 - - [22/Jul/2018:03:12:55] "GET /html/images/demo/avatar.png HTTP/1.1" 200 454
+192.168.1.17 - - [22/Jul/2018:03:13:19] "GET /html/index.html HTTP/1.1" 200 17519
+192.168.1.17 - - [22/Jul/2018:04:35:19] "GET / HTTP/1.1" 200 243
+192.168.1.17 - - [22/Jul/2018:04:35:20] "GET /favicon.ico HTTP/1.1" 404 0
+192.168.1.17 - - [22/Jul/2018:04:35:20] "GET /favicon.ico HTTP/1.1" 404 0
+192.168.1.17 - - [22/Jul/2018:04:35:22] "GET /html/ HTTP/1.1" 200 17519
+192.168.1.17 - - [22/Jul/2018:04:35:22] "GET /html/layout/scripts/jquery.backtotop.js HTTP/1.1" 200 609
+192.168.1.17 - - [22/Jul/2018:04:35:22] "GET /html/layout/scripts/jquery.mobilemenu.js HTTP/1.1" 200 1291
+192.168.1.17 - - [22/Jul/2018:04:35:22] "GET /html/layout/styles/layout.css HTTP/1.1" 200 17630
+192.168.1.17 - - [22/Jul/2018:04:35:22] "GET /html/layout/scripts/jquery.flexslider-min.js HTTP/1.1" 200 23058
+192.168.1.17 - - [22/Jul/2018:04:35:22] "GET /html/images/demo/320x240.png HTTP/1.1" 200 2644
+192.168.1.17 - - [22/Jul/2018:04:35:22] "GET /html/images/demo/480x360.png HTTP/1.1" 200 9613
+192.168.1.17 - - [22/Jul/2018:04:35:22] "GET /html/images/demo/backgrounds/02.png HTTP/1.1" 200 16314
+192.168.1.17 - - [22/Jul/2018:04:35:22] "GET /html/images/demo/backgrounds/03.png HTTP/1.1" 200 15433
+192.168.1.17 - - [22/Jul/2018:04:35:22] "GET /html/images/demo/backgrounds/01.png HTTP/1.1" 200 25072
+192.168.1.17 - - [22/Jul/2018:04:35:22] "GET /html/layout/scripts/jquery.min.js HTTP/1.1" 200 86353
+192.168.1.17 - - [22/Jul/2018:04:35:30] "GET /html/pages/gallery.html HTTP/1.1" 200 11969
+192.168.1.17 - - [22/Jul/2018:04:35:30] "GET /html/images/demo/gallery/01.png HTTP/1.1" 200 2500
+192.168.1.17 - - [22/Jul/2018:04:35:33] "GET /html/pages/full-width.html HTTP/1.1" 200 15345
+192.168.1.17 - - [22/Jul/2018:04:35:33] "GET /html/images/demo/imgr.gif HTTP/1.1" 200 1178
+192.168.1.17 - - [22/Jul/2018:04:35:33] "GET /html/images/demo/avatar.png HTTP/1.1" 200 454
+192.168.1.17 - - [22/Jul/2018:04:35:33] "GET /html/images/demo/imgl.gif HTTP/1.1" 200 998
+192.168.1.17 - - [22/Jul/2018:04:35:55] "GET /html/index.html HTTP/1.1" 200 17519
+[22/Jul/2018:11:19:49] boa: starting server
+192.168.1.17 - - [22/Jul/2018:11:20:03] "GET / HTTP/1.1" 200 243
+192.168.1.17 - - [22/Jul/2018:11:20:03] "GET /favicon.ico HTTP/1.1" 404 0
+192.168.1.17 - - [22/Jul/2018:11:20:06] "GET /html/ HTTP/1.1" 200 17519
+192.168.1.17 - - [22/Jul/2018:11:20:06] "GET /html/layout/scripts/jquery.backtotop.js HTTP/1.1" 200 609
+192.168.1.17 - - [22/Jul/2018:11:20:06] "GET /html/layout/scripts/jquery.mobilemenu.js HTTP/1.1" 200 1291
+192.168.1.17 - - [22/Jul/2018:11:20:06] "GET /html/layout/scripts/jquery.flexslider-min.js HTTP/1.1" 200 23058
+192.168.1.17 - - [22/Jul/2018:11:20:06] "GET /html/layout/styles/layout.css HTTP/1.1" 200 17630
+192.168.1.17 - - [22/Jul/2018:11:20:06] "GET /html/images/demo/320x240.png HTTP/1.1" 200 2644
+192.168.1.17 - - [22/Jul/2018:11:20:07] "GET /html/layout/scripts/jquery.min.js HTTP/1.1" 200 86353
+192.168.1.17 - - [22/Jul/2018:11:20:07] "GET /html/images/demo/backgrounds/02.png HTTP/1.1" 200 16314
+192.168.1.17 - - [22/Jul/2018:11:20:07] "GET /html/images/demo/backgrounds/01.png HTTP/1.1" 200 25072
+192.168.1.17 - - [22/Jul/2018:11:20:07] "GET /html/images/demo/backgrounds/03.png HTTP/1.1" 200 15433
+192.168.1.17 - - [22/Jul/2018:11:20:07] "GET /html/images/demo/480x360.png HTTP/1.1" 200 9613
+192.168.1.17 - - [22/Jul/2018:11:20:07] "GET /favicon.ico HTTP/1.1" 404 0
+192.168.1.17 - - [22/Jul/2018:11:23:19] "GET / HTTP/1.1" 304 0
+192.168.1.17 - - [22/Jul/2018:11:23:19] "GET /favicon.ico HTTP/1.1" 404 0
+192.168.1.17 - - [22/Jul/2018:11:23:21] "GET /html/ HTTP/1.1" 200 17519
+192.168.1.17 - - [22/Jul/2018:11:23:21] "GET /html/images/demo/320x240.png HTTP/1.1" 200 2644
+192.168.1.17 - - [22/Jul/2018:11:23:21] "GET /html/layout/scripts/jquery.backtotop.js HTTP/1.1" 200 609
+192.168.1.17 - - [22/Jul/2018:11:23:21] "GET /html/images/demo/480x360.png HTTP/1.1" 200 9613
+192.168.1.17 - - [22/Jul/2018:11:23:21] "GET /html/images/demo/backgrounds/02.png HTTP/1.1" 200 16314
+192.168.1.17 - - [22/Jul/2018:11:23:21] "GET /html/layout/scripts/jquery.flexslider-min.js HTTP/1.1" 200 23058
+192.168.1.17 - - [22/Jul/2018:11:23:21] "GET /html/images/demo/backgrounds/03.png HTTP/1.1" 200 15433
+192.168.1.17 - - [22/Jul/2018:11:23:21] "GET /html/images/demo/backgrounds/01.png HTTP/1.1" 200 25072
+[22/Jul/2018:11:34:12] boa: starting server
+192.168.1.17 - - [22/Jul/2018:11:34:39] "GET / HTTP/1.1" 200 243
+192.168.1.17 - - [22/Jul/2018:11:34:41] "GET /conf/ HTTP/1.1" 200 267
+192.168.1.17 - - [22/Jul/2018:11:34:42] "GET /conf/boa.conf HTTP/1.1" 200 3713
+192.168.1.17 - - [22/Jul/2018:11:34:45] "GET /html/ HTTP/1.1" 200 1659
+192.168.1.17 - - [22/Jul/2018:12:03:38] "GET /favicon.ico HTTP/1.1" 404 0
+192.168.1.17 - - [22/Jul/2018:12:03:41] "GET /html/images/demo/480x360.png HTTP/1.1" 404 0
+192.168.1.17 - - [22/Jul/2018:12:03:41] "GET /html/layout/scripts/jquery.backtotop.js HTTP/1.1" 404 0
+192.168.1.17 - - [22/Jul/2018:12:03:41] "GET /html/images/demo/320x240.png HTTP/1.1" 404 0
+192.168.1.17 - - [22/Jul/2018:12:03:41] "GET /html/layout/scripts/jquery.flexslider-min.js HTTP/1.1" 404 0
+192.168.1.17 - - [22/Jul/2018:12:03:41] "GET /html/images/demo/backgrounds/01.png HTTP/1.1" 404 0
+192.168.1.17 - - [22/Jul/2018:12:03:41] "GET /html/images/demo/backgrounds/02.png HTTP/1.1" 404 0
+192.168.1.17 - - [22/Jul/2018:12:03:41] "GET /html/images/demo/backgrounds/03.png HTTP/1.1" 404 0
+192.168.1.17 - - [22/Jul/2018:12:04:10] "GET / HTTP/1.1" 200 243
+192.168.1.17 - - [22/Jul/2018:12:04:12] "GET /html/ HTTP/1.1" 200 1659
+192.168.1.17 - - [22/Jul/2018:12:05:40] "GET /html/ HTTP/1.1" 200 1688
+192.168.1.17 - - [22/Jul/2018:12:05:47] "GET / HTTP/1.1" 200 243
+192.168.1.17 - - [22/Jul/2018:12:05:49] "GET /html/ HTTP/1.1" 200 1688
+192.168.1.17 - - [22/Jul/2018:12:08:31] "GET /html/ HTTP/1.1" 200 1688
+192.168.1.17 - - [22/Jul/2018:12:08:51] "GET /html/ HTTP/1.1" 200 1659
+192.168.1.17 - - [22/Jul/2018:13:00:31] "GET /html/ HTTP/1.1" 200 1659
+192.168.1.17 - - [22/Jul/2018:13:17:50] "GET /favicon.ico HTTP/1.1" 404 0
+192.168.1.17 - - [22/Jul/2018:13:17:52] "GET /html/ HTTP/1.1" 200 3570
+192.168.1.17 - - [24/Jul/2018:04:53:47] "GET / HTTP/1.1" 200 243
+192.168.1.17 - - [24/Jul/2018:04:53:47] "GET /favicon.ico HTTP/1.1" 404 0
+192.168.1.17 - - [24/Jul/2018:04:53:47] "GET /favicon.ico HTTP/1.1" 404 0
+192.168.1.17 - - [24/Jul/2018:04:53:49] "GET /html/ HTTP/1.1" 200 3570
+192.168.1.17 - - [24/Jul/2018:04:55:52] "GET / HTTP/1.1" 200 243
+192.168.1.17 - - [24/Jul/2018:04:56:53] "GET /log/ HTTP/1.1" 200 239
+192.168.1.17 - - [24/Jul/2018:04:56:55] "GET /log/log HTTP/1.1" 200 11846
+[24/Jul/2018:04:57:13] request from 192.168.1.17 "GET /log/777 HTTP/1.1": mmap: Invalid argument
+[25/Jul/2018:13:50:34] boa: starting server
+192.168.1.17 - - [25/Jul/2018:13:50:39] "GET / HTTP/1.1" 200 243
+192.168.1.17 - - [25/Jul/2018:13:50:39] "GET /favicon.ico HTTP/1.1" 404 0
+192.168.1.17 - - [25/Jul/2018:13:50:42] "GET /html/ HTTP/1.1" 200 2579
+192.168.1.17 - - [25/Jul/2018:13:51:04] "GET /html/ HTTP/1.1" 200 2557
+192.168.1.17 - - [25/Jul/2018:13:52:37] "GET /html/ HTTP/1.1" 200 2567
+192.168.1.17 - - [25/Jul/2018:14:03:14] "GET /html/ HTTP/1.1" 200 2584
+192.168.1.17 - - [25/Jul/2018:14:03:15] "GET /html/mem_info.html HTTP/1.1" 200 128
+192.168.1.17 - - [25/Jul/2018:14:04:05] "GET /html/ HTTP/1.1" 304 0
+192.168.1.17 - - [25/Jul/2018:14:04:07] "GET /html/mem_info.html HTTP/1.1" 200 173
+192.168.1.17 - - [25/Jul/2018:14:04:08] "GET /html/index.html HTTP/1.1" 200 2584
+192.168.1.17 - - [25/Jul/2018:14:04:10] "GET /html/mem_info.html HTTP/1.1" 304 0
+192.168.1.17 - - [25/Jul/2018:14:18:47] "GET /html/index.html HTTP/1.1" 304 0
+192.168.1.17 - - [25/Jul/2018:14:18:54] "GET /html/mem_info.html HTTP/1.1" 304 0
